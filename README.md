@@ -44,10 +44,10 @@ Lembrando: Esse formato não é definitivo e pode ser ajustado durante o ano. Ca
 
 Mês | Data | Título do artigo | Autor
 --- | ---- | ------ | -----
-Maio | 02/05/16 | -- | --
-Maio | 09/05/16 | -- | --
-Maio | 16/05/16 | -- | --
-Maio | 23/05/16 | -- | --
+Maio | 02/05/16 | Novidades do Android N Preview | Walmyr Carvalho
+Maio | 09/05/16 | Primeiros passos com o Realm | Douglas Drumond
+Maio | 16/05/16 | Testes: unitário vs aceitação |  Rodrigo Sicarelli
+Maio | 23/05/16 | Novidades do Android no Google I/O '16 | Bruno Scrok Brunoro
 Maio | 30/05/16 | -- | --
 Junho | 06/06/16 | -- | --
 Junho | 13/06/16 | -- | --
