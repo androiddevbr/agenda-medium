@@ -12,7 +12,7 @@ Esse projeto foi **bastante** inspirado no [EquinociOS](equinocios.com), idealiz
 
 #### Como submeter um artigo?
 
-Submeta um [novo issue](https://github.com/androiddevbr/medium/issues/new) com o título no formato do exemplo abaixo:
+Submeta um [novo issue](https://github.com/androiddevbr/agenda-medium/issues/new) com o título no formato do exemplo abaixo:
 
 	02/05/16 - Criando aplicativos com Firebase - José da Silva
 
@@ -51,7 +51,7 @@ Maio | 23/05/16 | -- | --
 Maio | 30/05/16 | -- | --
 Junho | 06/06/16 | -- | --
 Junho | 13/06/16 | -- | --
-Junho| 20/06/16 | -- | --
+Junho | 20/06/16 | -- | --
 Junho | 27/06/16 | -- | --
 Julho | 04/07/16 | -- | --
 Julho | 11/07/16 | -- | --
