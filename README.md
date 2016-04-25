@@ -1,4 +1,6 @@
-## Medium - Android Dev BR
+## Agenda Medium - Android Dev BR
+
+Agenda de publicação de artigos no [Medium do Android Dev BR](http://medium.com/android-dev-br).
 
 #### Motivação
 
