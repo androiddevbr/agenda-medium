@@ -50,7 +50,7 @@ Maio | 16/05/16 | Testes: unitário vs aceitação |  Rodrigo Sicarelli
 Maio | 23/05/16 | Novidades do Android no Google I/O '16 | Bruno Scrok Brunoro
 Maio | 30/05/16 | Validando dados com Android Saripaar 2 | Felipe Oliveira
 Junho | 06/06/16 | Utilizando AutoValue em aplicativos Android | David Tiago Conceição
-Junho | 13/06/16 | -- | --
+Junho | 13/06/16 | MVA - Quando menos é mais | Rafael Toledo
 Junho | 20/06/16 | -- | --
 Junho | 27/06/16 | -- | --
 Julho | 04/07/16 | -- | --
