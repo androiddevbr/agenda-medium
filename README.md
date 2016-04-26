@@ -31,7 +31,7 @@ Não queremos vetar ou dificultar de forma alguma a publicação ou submissão d
 
 Ao finalizar o artigo, o autor deve:
 
-* Solicitar no canal #medium do [Slack](http://slack.androiddevbr.org) a autorização de editor na nossa publicação no [Medium](http://medium.com/android-dev-br). 
+* Solicitar no canal #medium do [Slack do Android Dev BR](http://slack.androiddevbr.org) a autorização de editor na nossa publicação no [Medium](http://medium.com/android-dev-br). 
 * Após se tornar editor, submeter o artigo para o nossa publicação no [Medium](http://medium.com/android-dev-br).
 
 Os artigos devem ser submetidos com pelo menos **3 dias de antecedência** a data escolhida para publicação. Isso garante que ele seja revisado com calma pelo autor e admins, resultando em um artigo de maior qualidade.
