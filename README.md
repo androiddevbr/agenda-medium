@@ -55,7 +55,7 @@ Junho | 20/06/16 | Fresco, sim! | Rodrigo Sicarelli
 Junho | 27/06/16 | -- | --
 Julho | 04/07/16 | -- | --
 Julho | 11/07/16 | -- | --
-Julho | 18/07/16 | -- | --
+Julho | 18/07/16 | Dagger 2, um ano depois | Rafael Toledo
 Julho | 25/07/16 | -- | --
 Agosto | 01/08/16 | -- | --
 Agosto | 08/08/16 | -- | --
