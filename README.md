@@ -42,9 +42,9 @@ Lembrando: Esse formato não é definitivo e pode ser ajustado durante o ano. Ca
 
 ## Calendário - 2016
 
-Mês | Data | Título do artigo | Autor
---- | ---- | ------ | -----
-Maio | 02/05/16 | Novidades do Android N Preview | Walmyr Carvalho
+Mês | Data | Título do artigo | Autor | Status
+--- | ---- | ------ | ----- | ---- 
+**Maio** | **02/05/16** | [**Novidades do Android N Preview**](https://medium.com/android-dev-br/novidades-do-android-n-preview-7779f1d00604#.ij9lqrzc9) | **Walmyr Carvalho** | **Publicado**
 Maio | 09/05/16 | Primeiros passos com o Realm | Douglas Drumond
 Maio | 16/05/16 | Testes: unitário vs aceitação |  Rodrigo Sicarelli
 Maio | 23/05/16 | Novidades do Android no Google I/O '16 | Bruno Scrok Brunoro
