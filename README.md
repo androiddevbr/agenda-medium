@@ -54,10 +54,9 @@ Junho | 13/06/16 | MVA - Quando menos é mais | Rafael Toledo
 Junho | 20/06/16 | Fresco, sim! | Rodrigo Sicarelli
 Junho | 27/06/16 | Repetir até encaixar | Renan Nery
 Julho | 04/07/16 | React Native, por um desenvolvedor Android nativo | Walmyr Carvalho
-Julho | 11/07/16 | Como criar e lidar com tarefas em background e tarefas assíncronas | Jackson Miras
-Julho | 11/07/16 | -- | --
+Julho | 11/07/16 | Criando library com Annotation Processing | Felipe Theodoro
 Julho | 18/07/16 | Dagger 2, um ano depois | Rafael Toledo
-Julho | 25/07/16 | -- | --
+Julho | 25/07/16 | Como criar e lidar com tarefas em background e tarefas assíncronas | Jackson Miras
 Agosto | 01/08/16 | -- | --
 Agosto | 08/08/16 | -- | --
 Agosto | 15/08/16 | -- | --
