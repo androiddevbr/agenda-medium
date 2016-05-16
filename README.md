@@ -46,7 +46,7 @@ Mês | Data | Título do artigo | Autor | Status
 --- | ---- | ------ | ----- | ---- 
 Maio | 02/05/16 | [**Novidades do Android N Preview**](https://medium.com/android-dev-br/novidades-do-android-n-preview-7779f1d00604#.ij9lqrzc9) | **Walmyr Carvalho** | Publicado
 Maio | 09/05/16 | [**Validando dados com Android Saripaar 2**](https://medium.com/android-dev-br/validando-dados-com-android-saripaar-2-9b76842bb86b#.g01y18s3o) | **Felipe Oliveira** | Publicado
-Maio | 16/05/16 | Testes: unitário vs aceitação |  Rodrigo Sicarelli
+Maio | 16/05/16 | [**Testes: unitário vs aceitação**](https://medium.com/android-dev-br/testes-unit%C3%A1rios-vs-aceita%C3%A7%C3%A3o-30691fc8578d#.ck2g06ubu) |  **Rodrigo Sicarelli** | Publicado
 Maio | 23/05/16 | Novidades do Android no Google I/O '16 | Bruno Scrok Brunoro
 Maio | 30/05/16 | Primeiros passos com o Realm | Douglas Drumond
 Junho | 06/06/16 | Utilizando AutoValue em aplicativos Android | David Tiago Conceição
