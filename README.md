@@ -58,7 +58,7 @@ Julho | 04/07/16 | React Native, por um desenvolvedor Android nativo | Walmyr Ca
 Julho | 11/07/16 | Criando library com Annotation Processing | Felipe Theodoro
 Julho | 18/07/16 | Dagger 2, um ano depois | Rafael Toledo
 Julho | 25/07/16 | Como criar e lidar com tarefas em background e tarefas assíncronas | Jackson Miras
-Agosto | 01/08/16 |   --  | --
+Agosto | 01/08/16 |   Tipos e sabores!  | Rafael de Araújo
 Agosto | 08/08/16 | -- | --
 Agosto | 15/08/16 | -- | --
 Agosto | 22/08/16 | -- | --
