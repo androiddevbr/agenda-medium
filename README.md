@@ -49,8 +49,8 @@ Maio | 09/05/16 | [**Validando dados com Android Saripaar 2**](https://medium.co
 Maio | 16/05/16 | [**Testes: unitário vs aceitação**](https://medium.com/android-dev-br/testes-unit%C3%A1rios-vs-aceita%C3%A7%C3%A3o-30691fc8578d#.ck2g06ubu) |  **Rodrigo Sicarelli** | Publicado
 Agosto | 01/08/16 |  [**Continuous Deployment no Android**](https://medium.com/android-dev-br/continuous-deployment-no-android-f42b96ece80d#.kqc4l785w) | **Júlio Zynger** | Publicado
 Maio | 30/05/16 | [**Primeiros passos com o Realm**](https://medium.com/android-dev-br/inicia%C3%A7%C3%A3o-ao-realm-b7624e380194#.bhiflw703) | **Douglas Drumond** | Publicado
-Maio | 23/05/16 | Novidades do Android no Google I/O '16 | Bruno Scrok Brunoro
-Junho | 06/06/16 | Utilizando AutoValue em aplicativos Android | David Tiago Conceição
+Junho | 06/06/16 | [**Utilizando AutoValue em aplicativos Android**](https://medium.com/android-dev-br/autovalue-em-aplicativos-android-8f37f0005899#.rj5280rn4) | **David Tiago Conceição** | Publicado
+Maio | 09/06/16 | Novidades do Android no Google I/O '16 | Bruno Scrok Brunoro
 Junho | 13/06/16 | MVA - Quando menos é mais | Rafael Toledo
 Junho | 20/06/16 | Fresco, sim! | Rodrigo Sicarelli
 Junho | 27/06/16 | Repetir até encaixar | Renan Nery
