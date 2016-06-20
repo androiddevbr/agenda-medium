@@ -52,8 +52,8 @@ Maio | 30/05/16 | [**Primeiros passos com o Realm**](https://medium.com/android-
 Junho | 06/06/16 | [**Utilizando AutoValue em aplicativos Android**](https://medium.com/android-dev-br/autovalue-em-aplicativos-android-8f37f0005899#.rj5280rn4) | **David Tiago Conceição** | Publicado
 Maio | 09/06/16 | Novidades do Android no Google I/O '16 | Bruno Scrok Brunoro
 Junho | 13/06/16 | [**MVA - Quando menos é mais**](https://medium.com/android-dev-br/mva-quando-menos-%C3%A9-mais-363f1303bb36#.9nd37ui1v) | **Rafael Toledo**| Publicado
-Junho | 20/06/16 | Fresco, sim! | Rodrigo Sicarelli
-Junho | 27/06/16 | Repetir até encaixar | Renan Nery
+Junho | 20/06/16 | Repetir até encaixar | Renan Nery
+Junho | 27/06/16 | Fresco, sim! | Rodrigo Sicarelli
 Julho | 04/07/16 | React Native, por um desenvolvedor Android nativo | Walmyr Carvalho
 Julho | 11/07/16 | Criando library com Annotation Processing | Felipe Theodoro
 Julho | 18/07/16 | Dagger 2, um ano depois | Rafael Toledo
