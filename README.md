@@ -51,8 +51,8 @@ Agosto | 01/08/16 |  [**Continuous Deployment no Android**](https://medium.com/a
 Maio | 30/05/16 | [**Primeiros passos com o Realm**](https://medium.com/android-dev-br/inicia%C3%A7%C3%A3o-ao-realm-b7624e380194#.bhiflw703) | **Douglas Drumond** | Publicado
 Junho | 06/06/16 | [**Utilizando AutoValue em aplicativos Android**](https://medium.com/android-dev-br/autovalue-em-aplicativos-android-8f37f0005899#.rj5280rn4) | **David Tiago Conceição** | Publicado
 Maio | 09/06/16 | Novidades do Android no Google I/O '16 | Bruno Scrok Brunoro
-Junho | 13/06/16 | [**MVA - Quando menos é mais**](https://medium.com/android-dev-br/mva-quando-menos-%C3%A9-mais-363f1303bb36#.9nd37ui1v) | **Rafael Toledo**| Publicado
-Junho | 20/06/16 | Repetir até encaixar | Renan Nery
+Junho | 13/06/16 | [**MVA - Quando menos é mais**](https://medium.com/android-dev-br/mva-quando-menos-%C3%A9-mais-363f1303bb36#.9nd37ui1v) | **Rafael Toledo** | Publicado
+Junho | 20/06/16 | [**Repetir até encaixar**](https://medium.com/android-dev-br/repetir-at%C3%A9-encaixar-390ade3f57bd#.t1cj4dgdx) | **Renan Nery** | Publicado
 Junho | 27/06/16 | Fresco, sim! | Rodrigo Sicarelli
 Julho | 04/07/16 | React Native, por um desenvolvedor Android nativo | Walmyr Carvalho
 Julho | 11/07/16 | Criando library com Annotation Processing | Felipe Theodoro
