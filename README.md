@@ -56,7 +56,8 @@ Junho | 20/06/16 | [**Repetir até encaixar**](https://medium.com/android-dev-br
 Junho | 27/06/16 | [**Fresco, sim!**](https://medium.com/android-dev-br/fresco-sim-cda40fabae82#.ctnf084is) | **Rodrigo Sicarelli** | Publicado
 Julho | 04/07/16 | React Native, por um desenvolvedor Android nativo | Walmyr Carvalho
 Julho | 11/07/16 | [**Criando library com Annotation Processing**](https://medium.com/android-dev-br/annotation-processing-no-android-d28b734b8043#.o1poif8v9) | **Felipe Theodoro** | Publicado
-Julho | 18/07/16 | [**Dagger 2, um ano depois**](https://medium.com/android-dev-br/dagger-2-um-ano-depois-dac71012b594#.dwzv5cle9) | ***Rafael Toledo***  | Publicado
+Julho | 18/07/16 | [**Dagger 2, um ano depois**](https://medium.com/android-dev-br/dagger-2-um-ano-depois-dac71012b594#.dwzv5cle9) | **Rafael Toledo**  | Publicado
+Julho | 21/07/16 | [**Estrutura de Resources Alternativa para Projetos Android**](https://medium.com/android-dev-br/estrutura-de-resources-para-android-alternativa-2869d99a41f7#.lvmq91uo5) | **Marcello Torres de Oliveira Galhardo**  | Publicado
 Julho | 25/07/16 | Como criar e lidar com tarefas em background e tarefas assíncronas | Jackson Miras
 Agosto | 01/08/16 |   Tipos e sabores!  | Rafael de Araújo
 Agosto | 08/08/16 | ConstraintLayout & Novo editor de layouts, depois do hype | David Tiago Conceição
