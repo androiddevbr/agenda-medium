@@ -59,7 +59,7 @@ Julho | 11/07/16 | [**Criando library com Annotation Processing**](https://mediu
 Julho | 18/07/16 | [**Dagger 2, um ano depois**](https://medium.com/android-dev-br/dagger-2-um-ano-depois-dac71012b594#.dwzv5cle9) | **Rafael Toledo**  | Publicado
 Julho | 21/07/16 | [**Estrutura de Resources Alternativa para Projetos Android**](https://medium.com/android-dev-br/estrutura-de-resources-para-android-alternativa-2869d99a41f7#.lvmq91uo5) | **Marcello Torres de Oliveira Galhardo**  | Publicado
 Julho | 25/07/16 | Como criar e lidar com tarefas em background e tarefas assíncronas | Jackson Miras
-Agosto | 01/08/16 |   Tipos e sabores!  | Rafael de Araújo
+Agosto | 01/08/16 |   [**Tipos e sabores!**](https://medium.com/android-dev-br/flavors-2fa7b2ba4a9a#.fnfta3mfq)  | **Rafael de Araújo** | Publicado
 Agosto | 08/08/16 | ConstraintLayout & Novo editor de layouts, depois do hype | David Tiago Conceição
 Agosto | 15/08/16 | -- | --
 Agosto | 22/08/16 | -- | --
