@@ -50,11 +50,11 @@ Maio | 16/05/16 | [**Testes: unitário vs aceitação**](https://medium.com/andr
 Agosto | 01/08/16 |  [**Continuous Deployment no Android**](https://medium.com/android-dev-br/continuous-deployment-no-android-f42b96ece80d#.kqc4l785w) | **Júlio Zynger** | Publicado
 Maio | 30/05/16 | [**Primeiros passos com o Realm**](https://medium.com/android-dev-br/inicia%C3%A7%C3%A3o-ao-realm-b7624e380194#.bhiflw703) | **Douglas Drumond** | Publicado
 Junho | 06/06/16 | [**Utilizando AutoValue em aplicativos Android**](https://medium.com/android-dev-br/autovalue-em-aplicativos-android-8f37f0005899#.rj5280rn4) | **David Tiago Conceição** | Publicado
-Maio | 09/06/16 | Novidades do Android no Google I/O '16 | Bruno Scrok Brunoro
+Maio | 09/06/16 | -- | --
 Junho | 13/06/16 | [**MVA - Quando menos é mais**](https://medium.com/android-dev-br/mva-quando-menos-%C3%A9-mais-363f1303bb36#.9nd37ui1v) | **Rafael Toledo** | Publicado
 Junho | 20/06/16 | [**Repetir até encaixar**](https://medium.com/android-dev-br/repetir-at%C3%A9-encaixar-390ade3f57bd#.t1cj4dgdx) | **Renan Nery** | Publicado
 Junho | 27/06/16 | [**Fresco, sim!**](https://medium.com/android-dev-br/fresco-sim-cda40fabae82#.ctnf084is) | **Rodrigo Sicarelli** | Publicado
-Julho | 04/07/16 | React Native, por um desenvolvedor Android nativo | Walmyr Carvalho
+Julho | 04/07/16 | -- | --
 Julho | 11/07/16 | [**Criando library com Annotation Processing**](https://medium.com/android-dev-br/annotation-processing-no-android-d28b734b8043#.o1poif8v9) | **Felipe Theodoro** | Publicado
 Julho | 18/07/16 | [**Dagger 2, um ano depois**](https://medium.com/android-dev-br/dagger-2-um-ano-depois-dac71012b594#.dwzv5cle9) | **Rafael Toledo**  | Publicado
 Julho | 21/07/16 | [**Estrutura de Resources Alternativa para Projetos Android**](https://medium.com/android-dev-br/estrutura-de-resources-para-android-alternativa-2869d99a41f7#.lvmq91uo5) | **Marcello Torres de Oliveira Galhardo**  | Publicado
