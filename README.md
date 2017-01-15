@@ -24,7 +24,7 @@ A descrição do issue tem um template, onde deve ser preenchido o nome do autor
 	Título do artigo: Criando aplicativos com Firebase
 	Descrição: Gostaria de falar um pouco mais sobre como criar aplicativos com Firebase. A idéia do meu artigo é falar de forma introdutória sobre o assunto, criando um aplicativo simples para fins de demonstração.
 	
-Os artigos submetidos vão ser avaliados pelos admins e eventuais questões vão ser pontuadas nos comentários da issue, somente para fins de curadoria simples do conteúdo para evitar que tópicos similares ou repetidos sejam abordados.
+Os artigos submetidos serão avaliados pelos Editores e eventuais questões serão pontuadas nos comentários da issue, somente para fins de curadoria simples do conteúdo para evitar que tópicos similares, repetidos ou destoantes do propósito da publicação sejam abordados.
 
 Não queremos vetar ou dificultar de forma alguma a publicação ou submissão de artigos, muito pelo contrário. :)	
 
@@ -34,7 +34,7 @@ Ao finalizar o artigo, o autor deve submeter o artigo para a nossa publicação 
 
 Os artigos devem ser submetidos com pelo menos **3 dias de antecedência** a data escolhida para publicação. Isso garante que ele seja revisado com calma pelo autor e admins, resultando em um artigo de maior qualidade. Caso o artigo não seja submetido para revisão no período definido, a publicação será automaticamente atrasada proporcionalmente. Procure cumprir o prazo acordado e, em caso de problemas ou atrasos, comente na issue para que os editores possam tomar medidas de apoio.
 
-Nossa equipe de revisores será notificada no momento da submissão e se organizará para revisar o artigo o mais rápido possível. A revisão tem como objetivo principal evoluir a qualidade geral do post e elevar a qualidade da publicação. Para isso, nossos editores adicionarão comentários comentários e sugestões através dos comentários privados do Medium. O autor pode então efetuar os ajustes ou responder aos comentários, para que a edição evolua. Em caso de comentários pendentes, a publicação do artigo poderá ser adiada. 
+Nossa equipe de revisores será notificada no momento da submissão e se organizará para revisar o artigo o mais rápido possível. A revisão tem como objetivo principal evoluir a qualidade geral do post e elevar a qualidade da publicação. Para isso, nossos editores adicionarão comentários e sugestões através dos comentários privados do Medium. O autor pode então efetuar os ajustes ou responder aos comentários, para que a edição evolua. Em caso de comentários pendentes, a publicação do artigo poderá ser adiada. 
 
 Lembrando: Esse formato não é definitivo e pode ser ajustado durante o ano. Caso você tenha alguma dúvida ou sugestão, por favor, entre em contato com a gente, queremos o seu artigo! :)
 
