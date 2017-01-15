@@ -19,6 +19,7 @@ Submeta um [novo issue](https://github.com/androiddevbr/agenda-medium/issues/new
 A descrição do issue tem um template, onde deve ser preenchido o nome do autor(a), data em que ele(a) deseja publicar o seu artigo, título do artigo e uma descrição pequena do que se trata o artigo, como no exemplo abaixo:
 
 	Autor: José da Silva
+	Endereço do perfil do autor no medium: medium.com/jose-da-silva
 	Data escolhida: 02/05/16
 	Título do artigo: Criando aplicativos com Firebase
 	Descrição: Gostaria de falar um pouco mais sobre como criar aplicativos com Firebase. A idéia do meu artigo é falar de forma introdutória sobre o assunto, criando um aplicativo simples para fins de demonstração.
@@ -29,12 +30,9 @@ Não queremos vetar ou dificultar de forma alguma a publicação ou submissão d
 
 #### Revisão e publicação
 
-Ao finalizar o artigo, o autor deve:
+Ao finalizar o artigo, o autor deve submeter o artigo para a nossa publicação no [Medium](http://medium.com/android-dev-br). O artigo não precisa ter sido publicado ao ser submetido. 
 
-* Solicitar no canal #medium do [Slack do Android Dev BR](http://slack.androiddevbr.org) a autorização de editor na nossa publicação no [Medium](http://medium.com/android-dev-br). 
-* Após se tornar editor, submeter o artigo para o nossa publicação no [Medium](http://medium.com/android-dev-br).
-
-Os artigos devem ser submetidos com pelo menos **3 dias de antecedência** a data escolhida para publicação. Isso garante que ele seja revisado com calma pelo autor e admins, resultando em um artigo de maior qualidade.
+Os artigos devem ser submetidos com pelo menos **3 dias de antecedência** a data escolhida para publicação. Isso garante que ele seja revisado com calma pelo autor e admins, resultando em um artigo de maior qualidade. Caso o artigo não seja submetido para revisão no período definido, a publicação será automaticamente atrasada proporcionalmente. Procure cumprir o prazo acordado e, em caso de problemas ou atrasos, comente na issue para que os editores possam tomar medidas de apoio.
 
 Lembrando: Esse formato não é definitivo e pode ser ajustado durante o ano. Caso você tenha alguma dúvida ou sugestão, por favor, entre em contato com a gente, queremos o seu artigo! :)
 
