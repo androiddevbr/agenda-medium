@@ -40,7 +40,23 @@ Lembrando: Esse formato não é definitivo e pode ser ajustado durante o ano. Ca
 
 ---
 
-## Calendário - 2016
+## Calendário - 2017
+Mês | Data | Título do artigo | Autor | Status
+--- | ---- | ------ | ----- | ---- 
+Janeiro | 16/01/17 | Introdução ao Dagger 2 | Caique Oliveira |
+Janeiro | 23/01/17 | RecyclerViews | Rafael de Araújo |
+Janeiro | 30/01/17 | ---- | ------ | ----- | ---- 
+Fevereiro | 06/02/17 | ---- | ------ | ----- | ---- 
+Fevereiro | 13/02/17 | ---- | ------ | ----- | ---- 
+Fevereiro | 20/02/17 | ---- | ------ | ----- | ---- 
+Fevereiro | 27/02/17 | ---- | ------ | ----- | ---- 
+Março | 06/03/17 | ---- | ------ | ----- | ---- 
+Março | 13/03/17 | ---- | ------ | ----- | ---- 
+Março | 20/03/17 | ---- | ------ | ----- | ---- 
+Março | 27/03/17 | ---- | ------ | ----- | ---- 
+
+
+## Calendário - 2016 (Concluído)
 
 Mês | Data | Título do artigo | Autor | Status
 --- | ---- | ------ | ----- | ---- 
@@ -61,24 +77,5 @@ Julho | 21/07/16 | [**Estrutura de Resources Alternativa para Projetos Android**
 Julho | 25/07/16 | Como criar e lidar com tarefas em background e tarefas assíncronas | Jackson Miras
 Agosto | 01/08/16 |   [**Tipos e sabores!**](https://medium.com/android-dev-br/flavors-2fa7b2ba4a9a#.fnfta3mfq)  | **Rafael de Araújo** | Publicado
 Agosto | 08/08/16 | ConstraintLayout & Novo editor de layouts, depois do hype | David Tiago Conceição
-Agosto | 15/08/16 | -- | --
-Agosto | 22/08/16 | -- | --
-Agosto | 29/08/16 | -- | --
-Setembro | 05/09/16 | -- | --
-Setembro | 12/09/16 | -- | --
-Setembro | 19/09/16 | -- | --
-Setembro | 26/09/16 | -- | --
-Outubro | 03/10/16 | -- | --
-Outubro | 10/10/16 | -- | --
-Outubro | 17/10/16 | -- | --
-Outubro | 24/10/16 | -- | --
-Outubro | 31/10/16 | -- | --
-Novembro | 07/11/16 | -- | --
-Novembro | 14/11/16 | -- | --
-Novembro | 21/11/16 | -- | --
-Novembro | 28/11/16 | -- | --
-Dezembro | 05/12/16 | -- | --
-Dezembro | 12/12/16 | -- | --
-Dezembro | 19/12/16 | -- | --
 
 Caso alguém submeta algum post que seja muito relevante pela data em que foi escrito e essa data tenha sido preenchida, faremos um calendário extra com esses posts sobressalentes. 
