@@ -78,6 +78,5 @@ Julho | 18/07/16 | [**Dagger 2, um ano depois**](https://medium.com/android-dev-
 Julho | 21/07/16 | [**Estrutura de Resources Alternativa para Projetos Android**](https://medium.com/android-dev-br/estrutura-de-resources-para-android-alternativa-2869d99a41f7#.lvmq91uo5) | **Marcello Torres de Oliveira Galhardo**  | Publicado
 Julho | 25/07/16 | Como criar e lidar com tarefas em background e tarefas assíncronas | Jackson Miras
 Agosto | 01/08/16 |   [**Tipos e sabores!**](https://medium.com/android-dev-br/flavors-2fa7b2ba4a9a#.fnfta3mfq)  | **Rafael de Araújo** | Publicado
-Agosto | 08/08/16 | ConstraintLayout & Novo editor de layouts, depois do hype | David Tiago Conceição
 
 Caso alguém submeta algum post que seja muito relevante pela data em que foi escrito e essa data tenha sido preenchida, faremos um calendário extra com esses posts sobressalentes. 
