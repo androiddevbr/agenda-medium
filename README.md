@@ -26,6 +26,8 @@ A descrição do issue tem um template, onde deve ser preenchido o nome do autor
 	
 Os artigos submetidos serão avaliados pelos Editores e eventuais questões serão pontuadas nos comentários da issue, somente para fins de curadoria simples do conteúdo para evitar que tópicos similares, repetidos ou destoantes do propósito da publicação sejam abordados.
 
+Seu post já está pronto e já foi publicado? Inclua o link para o post na issue, para tentarmos antecipar a publicação.
+
 Não queremos vetar ou dificultar de forma alguma a publicação ou submissão de artigos, muito pelo contrário. :)	
 
 #### Revisão e publicação
