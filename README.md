@@ -19,28 +19,46 @@ Submeta um [novo issue](https://github.com/androiddevbr/agenda-medium/issues/new
 A descrição do issue tem um template, onde deve ser preenchido o nome do autor(a), data em que ele(a) deseja publicar o seu artigo, título do artigo e uma descrição pequena do que se trata o artigo, como no exemplo abaixo:
 
 	Autor: José da Silva
+	Perfil no medium: medium.com/jose-da-silva
 	Data escolhida: 02/05/16
 	Título do artigo: Criando aplicativos com Firebase
 	Descrição: Gostaria de falar um pouco mais sobre como criar aplicativos com Firebase. A idéia do meu artigo é falar de forma introdutória sobre o assunto, criando um aplicativo simples para fins de demonstração.
 	
-Os artigos submetidos vão ser avaliados pelos admins e eventuais questões vão ser pontuadas nos comentários da issue, somente para fins de curadoria simples do conteúdo para evitar que tópicos similares ou repetidos sejam abordados.
+Os artigos submetidos serão avaliados pelos Editores e eventuais questões serão pontuadas nos comentários da issue, somente para fins de curadoria simples do conteúdo para evitar que tópicos similares, repetidos ou destoantes do propósito da publicação sejam abordados.
+
+Seu post já está pronto e já foi publicado? Inclua o link para o post na issue, para tentarmos antecipar a publicação.
 
 Não queremos vetar ou dificultar de forma alguma a publicação ou submissão de artigos, muito pelo contrário. :)	
 
 #### Revisão e publicação
 
-Ao finalizar o artigo, o autor deve:
+Ao finalizar o artigo, o autor deve submeter o artigo para a nossa publicação no [Medium](http://medium.com/android-dev-br). O artigo não precisa ter sido publicado ao ser submetido. 
 
-* Solicitar no canal #medium do [Slack do Android Dev BR](http://slack.androiddevbr.org) a autorização de editor na nossa publicação no [Medium](http://medium.com/android-dev-br). 
-* Após se tornar editor, submeter o artigo para o nossa publicação no [Medium](http://medium.com/android-dev-br).
+Os artigos devem ser submetidos com pelo menos **3 dias de antecedência** a data escolhida para publicação. Isso garante que ele seja revisado com calma pelo autor e admins, resultando em um artigo de maior qualidade. Caso o artigo não seja submetido para revisão no período definido, a publicação será automaticamente atrasada proporcionalmente. Procure cumprir o prazo acordado e, em caso de problemas ou atrasos, comente na issue para que os editores possam tomar medidas de apoio.
 
-Os artigos devem ser submetidos com pelo menos **3 dias de antecedência** a data escolhida para publicação. Isso garante que ele seja revisado com calma pelo autor e admins, resultando em um artigo de maior qualidade.
+Nossa equipe de revisores será notificada no momento da submissão e se organizará para revisar o artigo o mais rápido possível. A revisão tem como objetivo principal evoluir a qualidade geral do post e elevar a qualidade da publicação. Para isso, nossos editores adicionarão comentários e sugestões através dos comentários privados do Medium. O autor pode então efetuar os ajustes ou responder aos comentários, para que a edição evolua. Em caso de comentários pendentes, a publicação do artigo poderá ser adiada. 
 
 Lembrando: Esse formato não é definitivo e pode ser ajustado durante o ano. Caso você tenha alguma dúvida ou sugestão, por favor, entre em contato com a gente, queremos o seu artigo! :)
 
 ---
 
-## Calendário - 2016
+## Calendário - 2017
+Mês | Data | Título do artigo | Autor | Status
+--- | ---- | ------ | ----- | ---- 
+Janeiro | 16/01/17 | Introdução ao Dagger 2 | Caique Oliveira |
+Janeiro | 23/01/17 | RecyclerViews | Rafael de Araújo |
+Janeiro | 30/01/17 | ---- | ------ | ----- | ---- 
+Fevereiro | 06/02/17 | ---- | ------ | ----- | ---- 
+Fevereiro | 13/02/17 | ---- | ------ | ----- | ---- 
+Fevereiro | 20/02/17 | ---- | ------ | ----- | ---- 
+Fevereiro | 27/02/17 | ---- | ------ | ----- | ---- 
+Março | 06/03/17 | ---- | ------ | ----- | ---- 
+Março | 13/03/17 | ---- | ------ | ----- | ---- 
+Março | 20/03/17 | ---- | ------ | ----- | ---- 
+Março | 27/03/17 | ---- | ------ | ----- | ---- 
+
+
+## Calendário - 2016 (Concluído)
 
 Mês | Data | Título do artigo | Autor | Status
 --- | ---- | ------ | ----- | ---- 
@@ -60,25 +78,5 @@ Julho | 18/07/16 | [**Dagger 2, um ano depois**](https://medium.com/android-dev-
 Julho | 21/07/16 | [**Estrutura de Resources Alternativa para Projetos Android**](https://medium.com/android-dev-br/estrutura-de-resources-para-android-alternativa-2869d99a41f7#.lvmq91uo5) | **Marcello Torres de Oliveira Galhardo**  | Publicado
 Julho | 25/07/16 | Como criar e lidar com tarefas em background e tarefas assíncronas | Jackson Miras
 Agosto | 01/08/16 |   [**Tipos e sabores!**](https://medium.com/android-dev-br/flavors-2fa7b2ba4a9a#.fnfta3mfq)  | **Rafael de Araújo** | Publicado
-Agosto | 08/08/16 | ConstraintLayout & Novo editor de layouts, depois do hype | David Tiago Conceição
-Agosto | 15/08/16 | -- | --
-Agosto | 22/08/16 | -- | --
-Agosto | 29/08/16 | -- | --
-Setembro | 05/09/16 | -- | --
-Setembro | 12/09/16 | -- | --
-Setembro | 19/09/16 | -- | --
-Setembro | 26/09/16 | -- | --
-Outubro | 03/10/16 | -- | --
-Outubro | 10/10/16 | -- | --
-Outubro | 17/10/16 | -- | --
-Outubro | 24/10/16 | -- | --
-Outubro | 31/10/16 | -- | --
-Novembro | 07/11/16 | -- | --
-Novembro | 14/11/16 | -- | --
-Novembro | 21/11/16 | -- | --
-Novembro | 28/11/16 | -- | --
-Dezembro | 05/12/16 | -- | --
-Dezembro | 12/12/16 | -- | --
-Dezembro | 19/12/16 | -- | --
 
 Caso alguém submeta algum post que seja muito relevante pela data em que foi escrito e essa data tenha sido preenchida, faremos um calendário extra com esses posts sobressalentes. 
