@@ -45,7 +45,7 @@ Lembrando: Esse formato não é definitivo e pode ser ajustado durante o ano. Ca
 ## Calendário - 2017
 Mês | Data | Título do artigo | Autor | Status
 --- | ---- | ------ | ----- | ---- 
-Janeiro | 16/01/17 | Introdução ao Dagger 2 | Caique Oliveira |
+Janeiro | 16/01/17 | [**Introdução ao Dagger 2**](https://medium.com/android-dev-br/introdu%C3%A7%C3%A3o-ao-dagger-2-56d193118a6c#.tgem7hbpb) | **Caique Oliveira** | 16/01/2017
 Janeiro | 23/01/17 | RecyclerViews | Rafael de Araújo |
 Janeiro | 30/01/17 | ---- | ------ | ----- | ---- 
 Fevereiro | 06/02/17 | ---- | ------ | ----- | ---- 
