@@ -2,6 +2,12 @@
 
 Agenda de publicação de artigos no [Medium do Android Dev BR](http://medium.com/android-dev-br).
 
+* [Motivação](https://github.com/androiddevbr/agenda-medium#motivação)
+* [Como submeter um artigo?](https://github.com/androiddevbr/agenda-medium#como-submeter-um-artigo)
+* [Revisão e publicação](https://github.com/androiddevbr/agenda-medium#revisão-e-publicação)
+* [Calendário - 2017](https://github.com/androiddevbr/agenda-medium#calendário---2017)
+* [Calendário - 2016 (Concluído)](https://github.com/androiddevbr/agenda-medium#calendário---2016-concluído)
+
 #### Motivação
 
 A idéia é simples: Organizar uma agenda anual de publicação de artigos para o nosso [Medium](http://medium.com/android-dev-br), sendo um artigo novo por semana (todas as segundas) até o fim do ano.
