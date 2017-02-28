@@ -2,6 +2,12 @@
 
 Agenda de publicação de artigos no [Medium do Android Dev BR](http://medium.com/android-dev-br).
 
+* [Motivação](https://github.com/androiddevbr/agenda-medium#motivação)
+* [Como submeter um artigo?](https://github.com/androiddevbr/agenda-medium#como-submeter-um-artigo)
+* [Revisão e publicação](https://github.com/androiddevbr/agenda-medium#revisão-e-publicação)
+* [Calendário - 2017](https://github.com/androiddevbr/agenda-medium#calendário---2017)
+* [Calendário - 2016 (Concluído)](https://github.com/androiddevbr/agenda-medium#calendário---2016-concluído)
+
 #### Motivação
 
 A idéia é simples: Organizar uma agenda anual de publicação de artigos para o nosso [Medium](http://medium.com/android-dev-br), sendo um artigo novo por semana (todas as segundas) até o fim do ano.
@@ -39,6 +45,9 @@ Os artigos devem ser submetidos com pelo menos **3 dias de antecedência** a dat
 Nossa equipe de revisores será notificada no momento da submissão e se organizará para revisar o artigo o mais rápido possível. A revisão tem como objetivo principal evoluir a qualidade geral do post e elevar a qualidade da publicação. Para isso, nossos editores adicionarão comentários e sugestões através dos comentários privados do Medium. O autor pode então efetuar os ajustes ou responder aos comentários, para que a edição evolua. Em caso de comentários pendentes, a publicação do artigo poderá ser adiada. 
 
 Lembrando: Esse formato não é definitivo e pode ser ajustado durante o ano. Caso você tenha alguma dúvida ou sugestão, por favor, entre em contato com a gente, queremos o seu artigo! :)
+
+#### Propriedade
+Todos os posts são de propriedade dos respectivos autores, sendo nossa publicação um meio para agrupar e divulgar de posts. Os autores tem, portanto, total liberdade para publicar seus posts em outros meios. Como forma de contribuição pela revisão e divulgação do post, a comunidade Android Dev BR pede apenas a citação da nossa publicação em caso de eventuais divulgações em outros meios (exemplo: *Publicado originalmente em [link para o post]*).
 
 ---
 
