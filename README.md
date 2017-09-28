@@ -16,8 +16,8 @@ Submeta um [novo issue](https://github.com/androiddevbr/agenda-medium/issues/new
 
 A descrição do issue tem um template, que deve ser preenchido com o nome do autor(a), data em que ele(a) planeja publicar o seu artigo, título do artigo e uma descrição pequena do que se trata o artigo, como no exemplo abaixo:
 
-	Autor: José da Silva
-	Perfil no medium: medium.com/@jose-da-silva
+	Autor: Maria da Silva
+	Perfil no medium: medium.com/@maria-da-silva
 	Data planejada: 02/05/16
 	Título do artigo: Criando aplicativos com Firebase
 	Descrição: Gostaria de falar um pouco mais sobre como criar aplicativos com Firebase. A idéia do meu artigo é falar de forma introdutória sobre o assunto, criando um aplicativo simples para fins de demonstração.
