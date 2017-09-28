@@ -56,8 +56,6 @@ Mês | Data | Título do artigo | Autor | Status
 --- | ---- | ------ | ----- | ---- 
 Janeiro | 16/01/17 | [**Introdução ao Dagger 2**](https://medium.com/android-dev-br/introdu%C3%A7%C3%A3o-ao-dagger-2-56d193118a6c#.tgem7hbpb) | **Caique Oliveira** | 16/01/2017
 Janeiro | 23/01/17 | [**Listas com RecyclerView**](https://medium.com/android-dev-br/listas-com-recyclerview-d3f41e0d653c#.6jvsgdx5n) | Rafael de Araújo | 23/01/2017
-Janeiro | 30/01/17 | Dependências duplicadas no Gradle | Rafa Araujo | ----- | ---- 
-Fevereiro | 06/02/17 | Como criar suas próprias bibliotecas | João de Freitas | ----- | ---- 
 
 ## Posts - 2016
 
