@@ -54,7 +54,7 @@ Todos os posts são de propriedade dos respectivos autores, sendo nossa publica�
 ## Posts - 2017
 Data | Título do artigo | Autor
 ---- | ------ | -----
-16/01/17 | [Introdução ao Dagger 2](https://medium.com/android-dev-br/introdu%C3%A7%C3%A3o-ao-dagger-2-56d193118a6c#.tgem7hbpb) | **Caique Oliveira**
+16/01/17 | [Introdução ao Dagger 2](https://medium.com/android-dev-br/introdu%C3%A7%C3%A3o-ao-dagger-2-56d193118a6c#.tgem7hbpb) | Caique Oliveira
 23/01/17 | [Listas com RecyclerView](https://medium.com/android-dev-br/listas-com-recyclerview-d3f41e0d653c#.6jvsgdx5n) | Rafael de Araújo
 01/02/2017 | [Android Things — Primeiros passos](https://medium.com/android-dev-br/android-things-primeiros-passos-2c98be4be394) | Luis Leão
 05/06/2017 | [S.O.L.I.D no Android](https://medium.com/android-dev-br/s-o-l-i-d-no-android-d55e23f1c72d) | Iago Mendes Fucolo
