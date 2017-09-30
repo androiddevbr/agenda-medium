@@ -52,10 +52,23 @@ Todos os posts são de propriedade dos respectivos autores, sendo nossa publica�
 ---
 
 ## Posts - 2017
-Mês | Data | Título do artigo | Autor | Status
---- | ---- | ------ | ----- | ---- 
-Janeiro | 16/01/17 | [**Introdução ao Dagger 2**](https://medium.com/android-dev-br/introdu%C3%A7%C3%A3o-ao-dagger-2-56d193118a6c#.tgem7hbpb) | **Caique Oliveira** | 16/01/2017
-Janeiro | 23/01/17 | [**Listas com RecyclerView**](https://medium.com/android-dev-br/listas-com-recyclerview-d3f41e0d653c#.6jvsgdx5n) | Rafael de Araújo | 23/01/2017
+Data | Título do artigo | Autor
+---- | ------ | -----
+16/01/17 | [Introdução ao Dagger 2](https://medium.com/android-dev-br/introdu%C3%A7%C3%A3o-ao-dagger-2-56d193118a6c#.tgem7hbpb) | **Caique Oliveira**
+23/01/17 | [Listas com RecyclerView](https://medium.com/android-dev-br/listas-com-recyclerview-d3f41e0d653c#.6jvsgdx5n) | Rafael de Araújo
+01/02/2017 | [Android Things — Primeiros passos](https://medium.com/android-dev-br/android-things-primeiros-passos-2c98be4be394) | Luis Leão
+05/06/2017 | [S.O.L.I.D no Android](https://medium.com/android-dev-br/s-o-l-i-d-no-android-d55e23f1c72d) | Iago Mendes Fucolo
+08/02/2017 | [Comunicação Socket entre um App Android e uma NodeMCU](https://medium.com/android-dev-br/construindo-uma-ponte-tcp-entre-um-app-android-e-uma-esp8266-1c56451c7ce1) | Cézar Antonio de Sousa
+23/03/2017 | [Dependências duplicadas no Gradle](https://medium.com/android-dev-br/depend%C3%AAncias-duplicadas-no-gradle-8bf2a25fccbc) | Rafael de Araújo
+16/04/2017 | [Usando styles do Android com a Anko](https://medium.com/android-dev-br/usando-styles-do-android-com-a-anko-c99b39542e76) | Jonathan Rafael Zanella
+22/04/2017 | [Dominando seus logs com o Timber](https://medium.com/android-dev-br/dominando-seus-logs-com-o-timber-8e9730b2090b) | Thiago Passos
+28/04/2017 | [Faça seu app brilhar: Como transformar um botão em um load spinner](https://medium.com/android-dev-br/fa%C3%A7a-seu-app-bilhar-como-transformar-um-bot%C3%A3o-em-um-load-spinner-f8b0ab2223e7) | Leandro Borges Ferreira
+20/05/2017 | [Kotlin: explorando uma nova linguagem ⚡️](https://medium.com/android-dev-br/kotlin-explorando-uma-nova-linguagem-%EF%B8%8F-799ffc99a1a2) | Jonathan Rafael Zanella
+23/05/2017 | [Transição, Zoom Pinch e Drag to back de ImageView](https://medium.com/android-dev-br/transi%C3%A7%C3%A3o-zoom-pinch-e-drag-to-back-de-imageview-f359556a1671) | Iago Mendes Fucolo
+19/06/2017 | [Guerra contra Singletons no Android](https://medium.com/android-dev-br/guerra-contra-singletons-721ab89aa94) | Eduardo Bonet
+04/07/2017 | [Validando views por tag com a Espresso](https://medium.com/android-dev-br/validando-views-por-tag-com-a-espresso-d60888ce9cbb) | Jonathan Rafael Zanella
+13/09/2017 | [Custom ExoPlayer extra: Kotlin](https://medium.com/android-dev-br/custom-exoplayer-extra-kotlin-906d96b79807) | Iago Mendes Fucolo
+
 
 ## Posts - 2016
 
