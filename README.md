@@ -5,6 +5,10 @@ Agenda de publicação de artigos no [Medium do Android Dev BR](http://medium.co
 ### Posts - 2018
  Data | Título do artigo | Autor 
  ---- | ---------------- | ----- 
+20 de ago | Kotlin: Como criar vários construtores | Caio Cardozo
+13 de ago | Criando o primeiro APP Android Kotlin | Caio Cardozo
+06 de ago | Utilizando JUnit 5 no Android | Pedro Henrique
+30 de jul | Animando as transições de Views em um aplicativo Android | Luciano Medeiros
 24 de jul | [Começando com Android Data Binding](https://medium.com/android-dev-br/começando-com-android-data-binding-d7719333eecc) | Wellington Costa
 01 de jul | [Introdução - Room Database Android](https://medium.com/android-dev-br/utilizando-room-database-no-android-fd76c2e6ccee) | Gabriel Prado
 23 de mai | [WorkManager — O que é? Como usar?](https://medium.com/android-dev-br/workmanager-o-que-é-como-usar-26f5b800984e) | Haldny Santos
@@ -12,8 +16,9 @@ Agenda de publicação de artigos no [Medium do Android Dev BR](http://medium.co
 07 de mai | [Acessibilidade para aplicações Android](https://medium.com/android-dev-br/acessibilidade-para-aplicações-android-b461da054a15) | Paula Rosa
 19 de jan | [Kotlin Extension Functions](https://medium.com/android-dev-br/kotlin-extension-functions-novos-horizontes-para-o-framework-android-ba7d2782fecf) | Jefferson Tavares de Pádua
 
-* [Posts - 2017](https://github.com/androiddevbr/agenda-medium/blob/master/_historico/2017.md)
-* [Posts - 2016](https://github.com/androiddevbr/agenda-medium/blob/master/_historico/2018.md)
+[Posts - 2017](https://github.com/androiddevbr/agenda-medium/blob/master/_historico/2017.md)
+
+[Posts - 2016](https://github.com/androiddevbr/agenda-medium/blob/master/_historico/2018.md)
 
 <br>
 
@@ -40,7 +45,15 @@ Seu post já está pronto e já foi publicado? Inclua o link para o post na issu
 
 Não queremos vetar ou dificultar de forma alguma a publicação ou submissão de artigos, muito pelo contrário. :) 
 
+
 **Obrigado pela contribuição!** :tada:
+
+<br>
+
+------------
+
+
+### Outras informações:
 
 * [Revisão e publicação](https://github.com/androiddevbr/agenda-medium/blob/master/_info/revisao.md)
 * [Motivação](https://github.com/androiddevbr/agenda-medium/blob/master/_info/motivacao.md)
