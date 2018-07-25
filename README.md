@@ -18,7 +18,7 @@ Agenda de publicação de artigos no [Medium do Android Dev BR](http://medium.co
 
 [Posts - 2017](https://github.com/androiddevbr/agenda-medium/blob/master/_historico/2017.md)
 
-[Posts - 2016](https://github.com/androiddevbr/agenda-medium/blob/master/_historico/2018.md)
+[Posts - 2016](https://github.com/androiddevbr/agenda-medium/blob/master/_historico/2016.md)
 
 <br>
 
