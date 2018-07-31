@@ -8,7 +8,7 @@ Agenda de publicação de artigos no [Medium do Android Dev BR](http://medium.co
 20 de ago | Kotlin: Como criar vários construtores | Caio Cardozo
 13 de ago | Criando o primeiro APP Android Kotlin | Caio Cardozo
 06 de ago | Utilizando JUnit 5 no Android | Pedro Henrique
-30 de jul | Animando as transições de Views em um aplicativo Android | Luciano Medeiros
+30 de jul | [Animando as transições de Views em um aplicativo Android](https://medium.com/android-dev-br/animando-as-transições-de-views-em-um-aplicativo-android-add527b2544d) | Luciano Medeiros
 24 de jul | [Começando com Android Data Binding](https://medium.com/android-dev-br/começando-com-android-data-binding-d7719333eecc) | Wellington Costa
 01 de jul | [Introdução - Room Database Android](https://medium.com/android-dev-br/utilizando-room-database-no-android-fd76c2e6ccee) | Gabriel Prado
 23 de mai | [WorkManager — O que é? Como usar?](https://medium.com/android-dev-br/workmanager-o-que-é-como-usar-26f5b800984e) | Haldny Santos
