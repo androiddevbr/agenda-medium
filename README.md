@@ -5,10 +5,10 @@ Agenda de publicação de artigos no [Medium do Android Dev BR](http://medium.co
 ### Posts - 2018
  Data | Título do artigo | Autor 
  ---- | ---------------- | ----- 
+10 de set | Kotlin: Como criar vários construtores | Caio Cardozo
 03 de set | Android Jetpack :  Navegação | Levi Moreira
-27 de ago | Quando utilizar inicialização lazy do Kotlin | Alex Felipe
-20 de ago | Kotlin: Como criar vários construtores | Caio Cardozo
-13 de ago | Criando o primeiro APP Android Kotlin | Caio Cardozo
+27 de ago | Criando o primeiro APP Android Kotlin | Caio Cardozo
+20 de ago | [Quando utilizar inicialização lazy do Kotlin](https://medium.com/android-dev-br/quando-utilizar-inicializa%C3%A7%C3%A3o-lazy-do-kotlin-45377c8b68ad) | Alex Felipe
 06 de ago | [Utilizando JUnit 5 no Android](https://medium.com/android-dev-br/utilizando-junit-5-no-android-82d752708985) | Pedro Henrique
 30 de jul | [Animando as transições de Views em um aplicativo Android](https://medium.com/android-dev-br/animando-as-transições-de-views-em-um-aplicativo-android-add527b2544d) | Luciano Medeiros
 24 de jul | [Começando com Android Data Binding](https://medium.com/android-dev-br/começando-com-android-data-binding-d7719333eecc) | Wellington Costa
