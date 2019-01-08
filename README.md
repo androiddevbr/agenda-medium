@@ -45,6 +45,8 @@ Os artigos submetidos serão avaliados pelos Editores e eventuais questões ser�
 
 Seu post já está pronto e já foi publicado? Inclua o link para o post na issue, para tentarmos antecipar a publicação.
 
+O post deverá serguir as diretrizes de qualidade da comunidade descrita [aqui](https://github.com/androiddevbr/agenda-medium/blob/master/guideline.md)
+
 Não queremos vetar ou dificultar de forma alguma a publicação ou submissão de artigos, muito pelo contrário. :) 
 
 
