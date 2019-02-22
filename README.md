@@ -5,18 +5,13 @@ Agenda de publicação de artigos no [Medium do Android Dev BR](http://medium.co
 ### Posts - 2018
  Data | Título do artigo | Autor 
  ---- | ---------------- | ----- 
-10 de set | Kotlin: Como criar vários construtores | Caio Cardozo
-03 de set | Android Jetpack :  Navegação | Levi Moreira
-27 de ago | Criando o primeiro APP Android Kotlin | Caio Cardozo
-20 de ago | [Quando utilizar inicialização lazy do Kotlin](https://medium.com/android-dev-br/quando-utilizar-inicializa%C3%A7%C3%A3o-lazy-do-kotlin-45377c8b68ad) | Alex Felipe
-06 de ago | [Utilizando JUnit 5 no Android](https://medium.com/android-dev-br/utilizando-junit-5-no-android-82d752708985) | Pedro Henrique
-30 de jul | [Animando as transições de Views em um aplicativo Android](https://medium.com/android-dev-br/animando-as-transições-de-views-em-um-aplicativo-android-add527b2544d) | Luciano Medeiros
-24 de jul | [Começando com Android Data Binding](https://medium.com/android-dev-br/começando-com-android-data-binding-d7719333eecc) | Wellington Costa
-01 de jul | [Introdução - Room Database Android](https://medium.com/android-dev-br/utilizando-room-database-no-android-fd76c2e6ccee) | Gabriel Prado
-23 de mai | [WorkManager — O que é? Como usar?](https://medium.com/android-dev-br/workmanager-o-que-é-como-usar-26f5b800984e) | Haldny Santos
-17 de mai | [Novidades do Google I/O 2018, para desenvolvedores](https://medium.com/android-dev-br/novidades-do-google-i-o-2018-para-desenvolvedores-9e99347367c6) | Rafael Araujo
-07 de mai | [Acessibilidade para aplicações Android](https://medium.com/android-dev-br/acessibilidade-para-aplicações-android-b461da054a15) | Paula Rosa
-19 de jan | [Kotlin Extension Functions](https://medium.com/android-dev-br/kotlin-extension-functions-novos-horizontes-para-o-framework-android-ba7d2782fecf) | Jefferson Tavares de Pádua
+18 de fev | [Verificação de contas por SMS utilizando a SMS Retriever API](https://medium.com/android-dev-br/verifica%C3%A7%C3%A3o-de-contas-por-sms-utilizando-a-sms-retriever-api-ce501d57d592) | Wilder Pereira
+12 de fev | [Utilizando Kotlin Coroutines no Android](https://medium.com/android-dev-br/utilizando-kotlin-coroutines-no-android-c73fcda71e27) | Wellington Costa
+31 de jan | [Kotlin: Como criar vários construtores](https://medium.com/android-dev-br/kotlin-como-criar-v%C3%A1rios-construtores-e6d84759c5b3) | Caio Cardozo
+28 de jan | [Arquiteturas em Android : MVVM + Kotlin + Android Architecture Components (Databinding, Lifecycle, LiveData, Room)](https://medium.com/android-dev-br/arquiteturas-em-android-mvvm-kotlin-android-architecture-components-databinding-lifecycle-d5e7a9023cf3) | Thiago Souto
+21 de jan | [Android UI: Bottom Sheet](https://medium.com/android-dev-br/android-ui-bottom-sheet-4709cad826d2) | Lucas Cavalcante
+
+[Posts - 2018](https://github.com/androiddevbr/agenda-medium/blob/master/_historico/2018.md)
 
 [Posts - 2017](https://github.com/androiddevbr/agenda-medium/blob/master/_historico/2017.md)
 
