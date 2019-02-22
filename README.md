@@ -8,7 +8,7 @@ Agenda de publicação de artigos no [Medium do Android Dev BR](http://medium.co
 18 de fev | [Verificação de contas por SMS utilizando a SMS Retriever API](https://medium.com/android-dev-br/verifica%C3%A7%C3%A3o-de-contas-por-sms-utilizando-a-sms-retriever-api-ce501d57d592) | Wilder Pereira
 12 de fev | [Utilizando Kotlin Coroutines no Android](https://medium.com/android-dev-br/utilizando-kotlin-coroutines-no-android-c73fcda71e27) | Wellington Costa
 31 de jan | [Kotlin: Como criar vários construtores](https://medium.com/android-dev-br/kotlin-como-criar-v%C3%A1rios-construtores-e6d84759c5b3) | Caio Cardozo
-28 de jan | [Arquiteturas em Android : MVVM + Kotlin + Android Architecture Components (Databinding, Lifecycle, LiveData, Room)](https://medium.com/android-dev-br/arquiteturas-em-android-mvvm-kotlin-android-architecture-components-databinding-lifecycle-d5e7a9023cf3) | Thiago Souto
+28 de jan | [Arquiteturas em Android : MVVM + Kotlin + JetPack](https://medium.com/android-dev-br/arquiteturas-em-android-mvvm-kotlin-android-architecture-components-databinding-lifecycle-d5e7a9023cf3) | Thiago Souto
 21 de jan | [Android UI: Bottom Sheet](https://medium.com/android-dev-br/android-ui-bottom-sheet-4709cad826d2) | Lucas Cavalcante
 
 [Posts - 2018](https://github.com/androiddevbr/agenda-medium/blob/master/_historico/2018.md)
