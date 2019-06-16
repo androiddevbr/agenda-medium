@@ -2,9 +2,25 @@
 
 Agenda de publicação de artigos no [Medium do Android Dev BR](http://medium.com/android-dev-br).
 
-### Posts - 2018
+### Posts - 2019
  Data | Título do artigo | Autor 
  ---- | ---------------- | ----- 
+12 de jun | [Android UI: Bottom App Bar](https://medium.com/android-dev-br/android-ui-bottom-app-bar-e3630e581a2b) | Lucas Cavalcante
+11 de jun | [Configurar o Jenkins para Android: Integração Contínua](https://medium.com/android-dev-br/configurar-o-jenkins-para-android-integra%C3%A7%C3%A3o-cont%C3%ADnua-a2f8a18516f6) | Victor Oliveira
+07 de jun | [Modularização Android Parte 3](https://medium.com/android-dev-br/modulariza%C3%A7%C3%A3o-android-parte-3-22622ae7d162) | Iago Mendes Fucolo
+06 de jun | [Modularização Android Parte 2](https://medium.com/android-dev-br/modulariza%C3%A7%C3%A3o-android-parte-2-aab52b903d90) | Iago Mendes Fucolo
+05 de jun | [Modularização Android Parte 1](https://medium.com/android-dev-br/modulariza%C3%A7%C3%A3o-android-parte-1-b69b509571c9) | Iago Mendes Fucolo
+30 de mai | [Chamadas assíncronas no Room, explorando as opções (RxJava, LiveData e Coroutines)](https://medium.com/android-dev-br/chamadas-ass%C3%ADncronas-no-room-explorando-as-op%C3%A7%C3%B5es-rx-livedata-e-coroutines-215c235b26a1) | Levi Albuquerque
+14 de mai | [Minha experiência no Google IO 2019](https://medium.com/android-dev-br/minha-experi%C3%AAncia-no-google-io-2019-3462a0b2a72a) | Diego Gonçalves Santos
+09 de mai | [Dos livros pro software: Antifrágil](https://medium.com/android-dev-br/dos-livros-pro-software-antifr%C3%A1gil-9ac6c68af4d8) | Vítor Bruno de Almeida
+30 de abr | [Testes em Android: Test Driven Development com activities e custom views](https://medium.com/android-dev-br/testes-em-android-test-driven-development-com-activities-e-custom-views-24d08dccd11a) | Thiago Souto
+09 de abr | [Android strings.xml - Detalhes que não podemos esquecer](https://medium.com/android-dev-br/android-string-xml-detalhes-que-n%C3%A3o-podemos-esquecer-2c4fb57f9bd) | Victor Oliveira
+26 de mar | [Bitrise CI - criando Workflow de testes unitários com cobertura de código](https://medium.com/android-dev-br/bitrise-ci-criando-workflow-de-testes-unit%C3%A1rios-com-cobertura-de-c%C3%B3digo-1e7ed648a86b) | Gabriel Prado
+22 de mar | [Fusão de Manifestos: Como são aplicadas regras para gerar um único arquivo AndroidManifest](https://medium.com/android-dev-br/fus%C3%A3o-de-manifestos-como-s%C3%A3o-aplicadas-regras-para-gerar-um-%C3%BAnico-arquivo-androidmanifest-xml-f7a9ff0fafa7) | Haldny Santos
+19 de mar | [Usando arquivos Kotlin para gerenciar suas dependência](https://medium.com/android-dev-br/usando-arquivos-kotlin-para-gerenciar-suas-depend%C3%AAncia-b61d2480a501) | Lucas Marciano
+15 de mar | [Por que devo testar minhas aplicações](https://medium.com/android-dev-br/por-que-devo-testar-minhas-aplica%C3%A7%C3%B5es-3c169716d714) | Diego Gonçalves Santos
+13 de mar | [Ciclo de vida no Android - Um estudo de caso](https://medium.com/android-dev-br/ciclo-de-vida-no-android-um-estudo-de-caso-65d59398ab6f) | Phellipe Silva
+11 de mar | [Android Jetpack - Usando a biblioteca de paginação](https://medium.com/android-dev-br/android-jetpack-usando-a-biblioteca-de-pagina%C3%A7%C3%A3o-e29e570db1b5) | Levi Albuquerque
 18 de fev | [Verificação de contas por SMS utilizando a SMS Retriever API](https://medium.com/android-dev-br/verifica%C3%A7%C3%A3o-de-contas-por-sms-utilizando-a-sms-retriever-api-ce501d57d592) | Wilder Pereira
 12 de fev | [Utilizando Kotlin Coroutines no Android](https://medium.com/android-dev-br/utilizando-kotlin-coroutines-no-android-c73fcda71e27) | Wellington Costa
 31 de jan | [Kotlin: Como criar vários construtores](https://medium.com/android-dev-br/kotlin-como-criar-v%C3%A1rios-construtores-e6d84759c5b3) | Caio Cardozo
@@ -32,7 +48,6 @@ A descrição do issue tem um template, que deve ser preenchido com o nome do au
 
     Autor: Maria da Silva
     Perfil no medium: medium.com/@maria-da-silva
-    Data planejada: 02/05/16
     Título do artigo: Criando aplicativos com Firebase
     Descrição: Gostaria de falar um pouco mais sobre como criar aplicativos com Firebase. A idéia do meu artigo é falar de forma introdutória sobre o assunto, criando um aplicativo simples para fins de demonstração.
     
