@@ -5,6 +5,7 @@ Agenda de publicação de artigos no [Medium do Android Dev BR](http://medium.co
 ### Posts - 2019
  Data | Título do artigo | Autor 
  ---- | ---------------- | ----- 
+13 de jun | [Arquitetura limpa nas apps: utilizando VIPER no Android](https://medium.com/android-dev-br/arquitetura-limpa-nas-apps-utilizando-viper-no-android-f39e51b44723) | Diogo Cabral
 12 de jun | [Android UI: Bottom App Bar](https://medium.com/android-dev-br/android-ui-bottom-app-bar-e3630e581a2b) | Lucas Cavalcante
 11 de jun | [Configurar o Jenkins para Android: Integração Contínua](https://medium.com/android-dev-br/configurar-o-jenkins-para-android-integra%C3%A7%C3%A3o-cont%C3%ADnua-a2f8a18516f6) | Victor Oliveira
 07 de jun | [Modularização Android Parte 3](https://medium.com/android-dev-br/modulariza%C3%A7%C3%A3o-android-parte-3-22622ae7d162) | Iago Mendes Fucolo
