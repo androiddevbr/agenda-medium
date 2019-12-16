@@ -5,6 +5,15 @@ Agenda de publicação de artigos no [Medium do Android Dev BR](http://medium.co
 ### Posts - 2019
  Data | Título do artigo | Autor 
  ---- | ---------------- | ----- 
+03 de nov | [Como configurar o Firebase utilizando o Android Studio](https://medium.com/android-dev-br/como-configurar-firebase-utilizando-o-android-studio-f58aca8aef0d) | Fernando de Jesus Grangeiro
+01 de nov | [Generics e Variance em Kotlin (in, out, T)](https://medium.com/android-dev-br/generics-e-variance-em-kotlin-in-out-t-ca5ca07c9fc5) | Thiago Pereira
+07 de out | [Como lidar com erros com Retrofit e Coroutines](https://medium.com/android-dev-br/como-lidar-com-erros-com-retrofit-e-coroutines-7b5af3ce3ef) | Douglas Iacovelli
+07 de ago | [Azure DevOps: uma alternativa de CI/CD Parte 2](https://medium.com/android-dev-br/explorando-o-azure-devops-como-uma-alternativa-de-ci-cd-para-um-aplicativo-android-parte-2-3cd97f9d3a63) | Victor Oliveira
+06 de ago | [Azure DevOps: uma alternativa de CI/CD Parte 1](https://medium.com/android-dev-br/explorando-o-azure-devops-como-uma-alternativa-de-ci-cd-para-um-aplicativo-android-parte-1-d9ba1af07117) | Victor Oliveira
+02 de ago | [Android View: ciclo de vida](https://medium.com/android-dev-br/android-view-ciclo-de-vida-2e228356d955) | Lucas Cavalcante
+01 de ago | [Android View: Prólogo](https://medium.com/android-dev-br/android-view-pr%C3%B3logo-d44a89c14fd1) | Lucas Cavalcante
+22 de jul | [Revisão de código](https://medium.com/android-dev-br/revis%C3%A3o-de-c%C3%B3digo-7dc6a9eecb21) | Tiago Dávila
+16 de jul | [Pesquisa de mercado 2019](https://medium.com/android-dev-br/pesquisa-de-mercado-2019-feb530018283) | Rafa Araujo
 13 de jun | [Arquitetura limpa nas apps: utilizando VIPER no Android](https://medium.com/android-dev-br/arquitetura-limpa-nas-apps-utilizando-viper-no-android-f39e51b44723) | Diogo Cabral
 12 de jun | [Android UI: Bottom App Bar](https://medium.com/android-dev-br/android-ui-bottom-app-bar-e3630e581a2b) | Lucas Cavalcante
 11 de jun | [Configurar o Jenkins para Android: Integração Contínua](https://medium.com/android-dev-br/configurar-o-jenkins-para-android-integra%C3%A7%C3%A3o-cont%C3%ADnua-a2f8a18516f6) | Victor Oliveira
