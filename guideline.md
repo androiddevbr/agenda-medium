@@ -21,6 +21,7 @@ Sobre o que devo escrever?
 - Escreva rascunhos e reescreva trechos que ache confuso.
 - Escreva frases curtas e que não canse o usuário.
 - Utilize uma boa imagem no topo do post. Provavelmente será a primeira coisa que irá chamar a atenção do leitor.
+- Se possível, não ultrapasse o limite de 7 minutos de leitura. Posts de 4 a 7 minutos de leitura tendem a convencer o leitor a lê-lo. Se o seu post estiver passando este limite, considere quebrá-lo em partes.
 
 ## Escrita
 
