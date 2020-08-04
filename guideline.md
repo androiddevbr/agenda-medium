@@ -31,7 +31,7 @@ Sobre o que devo escrever?
 - Atenção na gramática. Seja atencioso ao português e se achar necessário utilize ferramentas externas de correção de texto.
 - Não utilize nomes pejorativos.
 - Deixe todas palavras em inglês e/ou que represente um nome próprio em itálico.
-- Escreva frases curtas e que não canse o usuário.
+- Escreva frases curtas e que não cansem o usuário.
 
 ## Referências
 
