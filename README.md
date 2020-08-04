@@ -29,7 +29,7 @@ O post deverá serguir as diretrizes de qualidade da comunidade descrita [aqui](
 
 Não queremos vetar ou dificultar de forma alguma a publicação ou submissão de artigos, muito pelo contrário. :) 
 
-**Obrigado pela contribuição!** :tada:
+**Agradecemos pela contribuição!** :tada:
 
 ------------
 
