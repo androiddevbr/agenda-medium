@@ -32,6 +32,7 @@ Sobre o que devo escrever?
 - Não utilize nomes pejorativos.
 - Deixe todas palavras em inglês e/ou que represente um nome próprio em itálico.
 - Escreva frases curtas e que não cansem o usuário.
+- Sempre que possível, dê preferência para uma linguagem neutra respeitando as diferentes pessoas da comunidade.
 
 ## Referências
 
