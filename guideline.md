@@ -22,7 +22,7 @@ Sobre o que devo escrever?
 - Escreva uma introdução que cative a pessoa que estará lendo.
 - Estruture bem o post. Além dele ter um começo, meio e fim, utilize subtópicos ou listas para a leitura ficar organizada.
 - Utilize uma boa imagem no topo do post. Provavelmente será a primeira coisa que irá chamar a atenção do leitor.
-- Se possível, não ultrapasse o limite de 7 minutos de leitura. Posts de 4 a 7 minutos serão menos cansativos para lê-los. Se o seu post estiver passando este limite, considere quebrá-lo em partes.
+- Se possível, não ultrapasse o limite de 7 minutos de leitura. Posts de 4 a 7 minutos serão menos cansativos para leitura. Se o seu post estiver passando este limite, considere quebrá-lo em partes.
 
 
 ## Escrita
