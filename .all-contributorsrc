@@ -517,7 +517,17 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "denisvieira05",
+      "name": "Denis Vieira",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8844649?v=4",
+      "profile": "http://denisvieira.js.org/",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
