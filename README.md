@@ -1,6 +1,6 @@
 # Agenda Medium - Android Dev BR
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-55-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-56-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Agenda de publicação de artigos no [Medium do Android Dev BR](http://medium.com/android-dev-br).
@@ -120,6 +120,7 @@ Nosso agradecimento às pessoas que já contribuíram para a nossa comunidade es
     <td align="center"><a href="http://about.me/ramonrabello"><img src="https://avatars2.githubusercontent.com/u/1244672?v=4" width="80px;" alt=""/><br /><sub><b>Ramon Ribeiro Rabello</b></sub></a><br /><a href="#blog-ramonrabello" title="Blogposts">📝</a></td>
     <td align="center"><a href="https://arildo.dev/"><img src="https://avatars1.githubusercontent.com/u/32650006?v=4" width="80px;" alt=""/><br /><sub><b>Arildo Borges Jr</b></sub></a><br /><a href="#blog-arildojr7" title="Blogposts">📝</a></td>
     <td align="center"><a href="https://github.com/jaozinfs"><img src="https://avatars1.githubusercontent.com/u/38353328?v=4" width="80px;" alt=""/><br /><sub><b>jaozinfs</b></sub></a><br /><a href="#blog-jaozinfs" title="Blogposts">📝</a></td>
+    <td align="center"><a href="http://denisvieira.js.org/"><img src="https://avatars1.githubusercontent.com/u/8844649?v=4" width="80px;" alt=""/><br /><sub><b>Denis Vieira</b></sub></a><br /><a href="#blog-denisvieira05" title="Blogposts">📝</a></td>
   </tr>
 </table>
 
