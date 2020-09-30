@@ -508,7 +508,17 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "jaozinfs",
+      "name": "jaozinfs",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/38353328?v=4",
+      "profile": "https://github.com/jaozinfs",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
