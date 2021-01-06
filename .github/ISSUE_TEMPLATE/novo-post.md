@@ -3,7 +3,6 @@ name: Novo post
 about: Template usado para novos posts em nosso Medium
 title: Título do post - Nome do Autor
 labels: artigo em revisão
-assignees: orafaaraujo
 
 ---
 
