@@ -526,6 +526,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "coopoot",
+      "name": "Diego Souza",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/12613524?v=4",
+      "profile": "http://www.dimptek.com.br",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7,
