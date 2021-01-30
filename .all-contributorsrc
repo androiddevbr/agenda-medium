@@ -544,6 +544,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "tfcporciuncula",
+      "name": "Fred Porciúncula",
+      "avatar_url": "https://avatars.githubusercontent.com/u/750114?v=4",
+      "profile": "https://medium.com/@tfcporciuncula",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7,
