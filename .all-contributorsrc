@@ -544,6 +544,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "amsterdatech",
+      "name": "William Gouvea",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103606?v=4",
+      "profile": "https://github.com/amsterdatech",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7,
