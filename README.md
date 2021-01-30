@@ -1,6 +1,6 @@
 # Agenda Medium - Android Dev BR
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-58-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-59-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Agenda de publicação de artigos no [Medium do Android Dev BR](http://medium.com/android-dev-br).
@@ -118,11 +118,12 @@ Nosso agradecimento às pessoas que já contribuíram para a nossa comunidade es
     <td align="center"><a href="https://github.com/wellingtonmb88"><img src="https://avatars3.githubusercontent.com/u/7374488?v=4?s=80" width="80px;" alt=""/><br /><sub><b>Wellington  Miranda Barbosa</b></sub></a><br /><a href="#blog-wellingtonmb88" title="Blogposts">📝</a></td>
     <td align="center"><a href="https://github.com/wellingtoncosta"><img src="https://avatars2.githubusercontent.com/u/12864097?v=4?s=80" width="80px;" alt=""/><br /><sub><b>Wellington Costa</b></sub></a><br /><a href="#blog-wellingtoncosta" title="Blogposts">📝</a></td>
     <td align="center"><a href="https://wilder.github.io/"><img src="https://avatars1.githubusercontent.com/u/12280517?v=4?s=80" width="80px;" alt=""/><br /><sub><b>Wilder Pereira</b></sub></a><br /><a href="#blog-wilder" title="Blogposts">📝</a></td>
+    <td align="center"><a href="https://github.com/amsterdatech"><img src="https://avatars.githubusercontent.com/u/103606?v=4?s=80" width="80px;" alt=""/><br /><sub><b>William Gouvea</b></sub></a><br /><a href="#blog-amsterdatech" title="Blogposts">📝</a></td>
     <td align="center"><a href="https://github.com/haldny"><img src="https://avatars0.githubusercontent.com/u/10047481?v=4?s=80" width="80px;" alt=""/><br /><sub><b>haldny</b></sub></a><br /><a href="#blog-haldny" title="Blogposts">📝</a></td>
     <td align="center"><a href="https://github.com/jaozinfs"><img src="https://avatars1.githubusercontent.com/u/38353328?v=4?s=80" width="80px;" alt=""/><br /><sub><b>jaozinfs</b></sub></a><br /><a href="#blog-jaozinfs" title="Blogposts">📝</a></td>
-    <td align="center"><a href="https://github.com/jonathanrz"><img src="https://avatars1.githubusercontent.com/u/1389131?v=4?s=80" width="80px;" alt=""/><br /><sub><b>jonathanrz</b></sub></a><br /><a href="#blog-jonathanrz" title="Blogposts">📝</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/jonathanrz"><img src="https://avatars1.githubusercontent.com/u/1389131?v=4?s=80" width="80px;" alt=""/><br /><sub><b>jonathanrz</b></sub></a><br /><a href="#blog-jonathanrz" title="Blogposts">📝</a></td>
     <td align="center"><a href="https://github.com/lucamenor"><img src="https://avatars3.githubusercontent.com/u/10079579?v=4?s=80" width="80px;" alt=""/><br /><sub><b>lucamenor</b></sub></a><br /><a href="#blog-lucamenor" title="Blogposts">📝</a></td>
     <td align="center"><a href="https://github.com/luisAlmeidaf"><img src="https://avatars.githubusercontent.com/u/15963450?v=4?s=80" width="80px;" alt=""/><br /><sub><b>luisAlmeidaf</b></sub></a><br /><a href="#blog-luisAlmeidaf" title="Blogposts">📝</a></td>
   </tr>
