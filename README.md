@@ -1,6 +1,6 @@
 # Agenda Medium - Android Dev BR
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-57-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-58-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Agenda de publicação de artigos no [Medium do Android Dev BR](http://medium.com/android-dev-br).
@@ -124,6 +124,7 @@ Nosso agradecimento às pessoas que já contribuíram para a nossa comunidade es
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/lucamenor"><img src="https://avatars3.githubusercontent.com/u/10079579?v=4?s=80" width="80px;" alt=""/><br /><sub><b>lucamenor</b></sub></a><br /><a href="#blog-lucamenor" title="Blogposts">📝</a></td>
+    <td align="center"><a href="https://github.com/luisAlmeidaf"><img src="https://avatars.githubusercontent.com/u/15963450?v=4?s=80" width="80px;" alt=""/><br /><sub><b>luisAlmeidaf</b></sub></a><br /><a href="#blog-luisAlmeidaf" title="Blogposts">📝</a></td>
   </tr>
 </table>
 
