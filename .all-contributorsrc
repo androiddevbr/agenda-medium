@@ -544,6 +544,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "JefferssonSemin",
+      "name": "Jeffersson Semin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36412487?v=4",
+      "profile": "https://www.linkedin.com/in/jeffersson-semin/",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7,
