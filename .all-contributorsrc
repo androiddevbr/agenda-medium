@@ -544,6 +544,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "jeancsanchez",
+      "name": "Jean Carlos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11152015?v=4",
+      "profile": "https://profile.codersrank.io/user/jeancsanchez/",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7,
