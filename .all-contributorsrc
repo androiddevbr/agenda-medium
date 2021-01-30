@@ -553,6 +553,60 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "amsterdatech",
+      "name": "William Gouvea",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103606?v=4",
+      "profile": "https://github.com/amsterdatech",
+      "contributions": [
+        "blog"
+      ]
+    },
+    {
+      "login": "brunohensel",
+      "name": "Bruno Hensel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45492687?v=4",
+      "profile": "https://casenio.eu/",
+      "contributions": [
+        "blog"
+      ]
+    },
+    {
+      "login": "jeancsanchez",
+      "name": "Jean Carlos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11152015?v=4",
+      "profile": "https://profile.codersrank.io/user/jeancsanchez/",
+      "contributions": [
+        "blog"
+      ]
+    },
+    {
+      "login": "DevPicon",
+      "name": "Armando Picón",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14266553?v=4",
+      "profile": "https://youtube.com/devpicon",
+      "contributions": [
+        "blog"
+      ]
+    },
+    {
+      "login": "wilfilho",
+      "name": "Will Filho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4473670?v=4",
+      "profile": "https://medium.com/@wilfilho",
+      "contributions": [
+        "blog"
+      ]
+    },
+    {
+      "login": "tfcporciuncula",
+      "name": "Fred Porciúncula",
+      "avatar_url": "https://avatars.githubusercontent.com/u/750114?v=4",
+      "profile": "https://medium.com/@tfcporciuncula",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7,
