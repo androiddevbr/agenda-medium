@@ -544,6 +544,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "DevPicon",
+      "name": "Armando Picón",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14266553?v=4",
+      "profile": "https://youtube.com/devpicon",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7,
