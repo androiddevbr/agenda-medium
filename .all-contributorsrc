@@ -544,6 +544,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "wilfilho",
+      "name": "Will Filho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4473670?v=4",
+      "profile": "https://medium.com/@wilfilho",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7,
