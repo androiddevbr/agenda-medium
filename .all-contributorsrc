@@ -544,6 +544,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "brunohensel",
+      "name": "Bruno Hensel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45492687?v=4",
+      "profile": "https://casenio.eu/",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7,
