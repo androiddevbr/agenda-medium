@@ -607,6 +607,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "RBJUR",
+      "name": "Roque Buarque Junior",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11612508?v=4",
+      "profile": "https://github.com/RBJUR",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7,
