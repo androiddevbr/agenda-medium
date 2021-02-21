@@ -616,6 +616,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "jeziellago",
+      "name": "Jeziel Lago",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8452419?v=4",
+      "profile": "https://jeziellago.dev",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7,
