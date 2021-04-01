@@ -634,6 +634,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "pvcorazza",
+      "name": "Paulo Victor Corazza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22750077?v=4",
+      "profile": "https://github.com/pvcorazza",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7,
