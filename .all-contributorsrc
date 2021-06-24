@@ -643,6 +643,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "Wottrich",
+      "name": "Lucas Cruz Wottrich",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24254062?v=4",
+      "profile": "https://www.linkedin.com/in/lucas-c-wottrich/",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7,
