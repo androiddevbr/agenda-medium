@@ -652,6 +652,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "gcherubini",
+      "name": "Guilherme Cherubini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13647464?v=4",
+      "profile": "https://github.com/gcherubini",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7,
