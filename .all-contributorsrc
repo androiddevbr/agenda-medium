@@ -670,6 +670,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "pablobaldez",
+      "name": "Pablo Baldez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7607311?v=4",
+      "profile": "https://github.com/pablobaldez",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7,
